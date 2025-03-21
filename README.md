@@ -1,5 +1,6 @@
-I forked this because of USBSerPassThruLine. See Readme
-[USBSerPassThruLine/README.md](USBSerPassThruLine/README.md)
+I forked this because of USBSerPassThruLine.  
+The point being to use this to finalize Phraser project with USB tuning - disable ACM port and make Keyboard be recognizable in BIOS and older OS.  
+See [USBSerPassThruLine/README.md](USBSerPassThruLine/README.md)
 ---
 
 # The USB Metamorph Project
