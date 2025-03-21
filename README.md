@@ -1,3 +1,7 @@
+I forked this because of USBSerPassThruLine. See Readme
+[USBSerPassThruLine/README.md](USBSerPassThruLine/README.md)
+---
+
 # The USB Metamorph Project
 
 Imagine plugging a USB keyboard into a small box then plugging
