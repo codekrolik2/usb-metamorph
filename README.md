@@ -2,7 +2,7 @@ I forked this because of USBSerPassThruLine.
 The point being to use this to finalize Phraser project with USB tuning - disable ACM port and make Keyboard be recognizable in BIOS and older OS.  
 See [USBSerPassThruLine/README.md](USBSerPassThruLine/README.md)
 
-https://forum.arduino.cc/t/arduino-leonardo-as-usb-keyboard-incompatibility-with-kvm-device/524015
+https://forum.arduino.cc/t/arduino-leonardo-as-usb-keyboard-incompatibility-with-kvm-device/524015  
 https://github.com/gdsports/usb-metamorph/tree/master/USBSerPassThruLine
 
 ---
